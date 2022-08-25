@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.bg-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.app-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.heading {
+  color: #0f172a;
+  font-family: 'Lobster';
+  font-size: 48px;
+  margin-bottom: 48px;
+}
+.languages-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.failure-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.repo-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0px;
+  max-width: 1140px;
+}
